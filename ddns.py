@@ -7,8 +7,8 @@ import urllib.request
 import datetime
 
 #onamaeID/Pass
-userid = "7531691"
-password = "Jp(0117)onamae"
+userid = ""
+password = ""
 
 #tarfet dns info
 hostname=""
